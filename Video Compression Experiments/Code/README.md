@@ -1,0 +1,1 @@
+This is the code for my Video Compression Experiments I did in the Summer of 2025. I explored some ideas, such as Foviation, alternative Color Spaces etc. It was mostly to learn Matlab and expand my knowledge of Video Compression. 
