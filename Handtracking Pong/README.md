@@ -14,4 +14,4 @@ This was a quick pong game I made to be controlled my hand movements.
 
   * Place your hand in the top third of the screen to move a paddle up, the middle third to stop the paddle, and the bottom third to move it down.
 
-  
+  * Press q to quit
